@@ -1,5 +1,5 @@
 body{
-    color: #333;
+    color: white;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -7,11 +7,15 @@ body{
     padding: 0;
 }
 
+
+html{
+    background-color: black;
+}
 #container{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #ddd;
+    border: 1px solid white;
     margin: 0 auto;
 }
 
