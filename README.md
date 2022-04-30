@@ -5,3 +5,4 @@ Esto es para una rama
 
 Incluye ejemplos en Windows,linux y mac.
 
+ls personalidades de freddy
